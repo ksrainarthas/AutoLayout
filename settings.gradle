@@ -1,0 +1,3 @@
+rootProject.name = "AutoLayout"
+include ':app'
+include ':AutoLayout'
